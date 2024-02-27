@@ -2,7 +2,7 @@
 <h1>ConectaCwbApp</h1>
 
 ## Metas
-> O ConectaCwbApp é um aplicativo de rede sócial, com o design morderno e de fácil compreensão. Este projeto contém sistema de login, cadastro, uso de camêra, chat em tempo real e muito mais!
+> O ConectaCwbApp é um aplicativo de rede social, com o design morderno e de fácil compreensão. Este projeto contém sistema de login, cadastro, uso de camêra, chat em tempo real e muito mais!
 > Sistema consiste em demonstrar minhas habilidades em diversas ferramentas e metodologias de desenvolvimento focadas em React Native
 
 ## 💻 Pré-requisitos
